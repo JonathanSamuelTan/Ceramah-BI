@@ -1,0 +1,32 @@
+#Navbar{
+	font-family: 'Dancing Script', cursive;
+	font-size:30px;
+	font-weight:bold; 
+}
+
+.jumbotron{
+	padding-top: 0.5rem;
+	background-color : #80bfff;
+	color:white;
+}
+.container{
+	font-family: "Times New Roman", serif;
+}
+#Isi-Konten{text-align:justify;}
+span{color:white;}
+
+.link{font-size:18px;}
+.col-9{font-size:18px;}
+
+footer{
+	background-color:#0275d8;
+	color:white;
+	text-align:center;
+	height:40px;
+	font-family: 'Pacifico', cursive;
+	font-size:25px;
+}
+footer a{
+	color:white;
+	text-decoration:none;
+}
